@@ -74,7 +74,7 @@ My work combines technical security skills with risk-based thinking to help orga
 - **CompTIA IT Operations Specialist (CIOS) – Stackable Certification**
 - **Splunk Core Certified User**
 - **ITIL 4 Foundation**
-- **Linux Foundations** *(update exact issuing organization/title if you want)*
+- **Linux Foundations** 
 - **Google Cybersecurity Certificate**
 - **IBM Cybersecurity Analyst Certificate**
 
