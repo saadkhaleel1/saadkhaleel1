@@ -15,6 +15,7 @@ My work combines technical security skills with risk-based thinking to help orga
 - Proposed a **Microsoft Sentinel SIEM onboarding** plan to centralize logging, improve detection, and support security governance
 - Defined implementation phases, milestones, detection use cases, and measurable outcomes aligned to risk reduction
 - **Focus areas:** security monitoring, incident detection, control improvement, documentation, and compliance support
+- (https://github.com/saadkhaleel1/wgu-capstone-riverbend-sentinel-siem)
 
 ### 2) Azure Honeypot + Microsoft Sentinel SIEM Project
 - Deployed a cloud honeypot in Azure and integrated logs into Microsoft Sentinel
